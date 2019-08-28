@@ -12,3 +12,17 @@ DATABASES = {
         'database': os.path.join(path, DB_DIR, DB_NAME),
     }
 }
+
+#using mysql
+"""DATABASES = {
+	'mysql': {
+		'driver': 'mysql',
+		'host': 'host',
+		'database': 'db',
+		'user': 'username',
+		'password': 'pass',
+		'prefix': '',
+		'use_unicode': True,
+		'charset' : 'utf8'
+	}
+}"""
