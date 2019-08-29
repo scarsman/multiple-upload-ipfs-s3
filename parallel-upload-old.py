@@ -25,8 +25,8 @@ SUCCESS = 2
 FAILED = 3
 
 #nginx basic auth
-USERNAME = 'pygmalion1357'
-PASSWORD = 'galatea2468'
+USERNAME = 'user'
+PASSWORD = 'password'
 
 #test
 def get_all_images(): #return list
