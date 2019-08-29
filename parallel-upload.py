@@ -21,8 +21,8 @@ SUCCESS = 2
 FAILED = 3
 
 #nginx basic auth since our ipfs-s3 server need credentials to access the resources
-USERNAME = 'pygmalion1357'
-PASSWORD = 'galatea2468'
+USERNAME = 'user'
+PASSWORD = 'password'
 
 
 class Contractor(Process):
